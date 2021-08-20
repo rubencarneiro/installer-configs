@@ -56,7 +56,7 @@ operating_systems:
               files:
                 - url: "https://github.com/rubencarneiro/sagetea.github.io/releases/download/1.0/boot.img"
                   checksum:
-                    sum: "2f4bcd84ddbd5e8ca3612ec0aa3b0e681ed0657e50739107e0cf19b664cc877"
+                    sum: "2f4bcd84ddbd5e8ca3612ec0aa3b0e681ed0657e50739107e0cf19b664cc877c"
                     algorithm: "sha256"
                 - url: "https://github.com/rubencarneiro/sagetea.github.io/releases/download/1.0/dtbo.img"
                   checksum:
